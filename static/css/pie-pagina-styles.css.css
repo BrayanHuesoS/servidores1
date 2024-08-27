@@ -1,0 +1,15 @@
+footer{
+    width: 80%;
+    height: 80px;
+    background-color: black;
+    margin: 0 auto;
+    margin-top: 30px;
+    
+}
+
+footer h1{
+    color: aquamarine;
+    text-align: center;
+    line-height: 80px;
+}
+
